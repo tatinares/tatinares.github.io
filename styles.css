@@ -82,6 +82,8 @@ li a:hover {
 }
 .pie-pagina ul{
     text-align: center !important;
+    margin: 0 !important;
+    padding-inline-start: 0px;
 }
 .fa-instagram{
     color: #C13584;
